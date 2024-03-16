@@ -26,4 +26,4 @@ Welcome to the Weather Information App! This project provides real-time weather 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mustafaansarii/PythonVerse/blob/main/Weather%20App/weather.py
+   git clone https://github.com/mustafaansarii/Weather-App
