@@ -42,9 +42,3 @@ def get_weather_info(location_input):
         result = f"Weather for '{location_input}' not found!\nKindly enter a valid city name or zip code."
 
     return result
-
-# Define Gradio interface
-input_text = gr.Textbox(label="Enter city name or zip code")
-output_text = gr.Textbox(label="Weather Info")
-
-gr.Interface(get_weather_info, inputs=input_text, outputs=output_text, title="Weather Info", description="Enter a city name or zip code to get the weather information.").launch()
