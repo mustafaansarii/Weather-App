@@ -15,15 +15,4 @@ Welcome to the Weather Information App! This project provides real-time weather 
 2. Enter a city name or zip code in the provided text box.
 3. Press Enter or click the Submit button to get weather information.
 
-## Requirements
 
-- Python 3.x
-- Gradio
-- Requests
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/mustafaansarii/Weather-App
