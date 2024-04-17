@@ -21,9 +21,15 @@ def main():
         for line in weather_info.split('\n'):
             st.write(line)
 
+    # Sidebar
+    st.sidebar.title("Sidebar")
+    st.sidebar.subheader("Developer Contact")
+    st.sidebar.write("Name: Mustafa Ansari")
+    st.sidebar.write("github: https://github.com/mustafaansarii")
+
+    st.sidebar.subheader("About")
+    st.sidebar.write("This is a simple Streamlit app that provides weather information based on the input city or zip code.")
+    st.sidebar.write("It uses a machine learning model deployed on modelbit for weather predictions.")
+
 if __name__ == "__main__":
     main()
-
-
-
-  
