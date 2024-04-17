@@ -1,5 +1,7 @@
 # Weather Information App
-
+[Live on Streamlit](https://weather-information-app.streamlit.app/)
+[Live on HuggingFace](https://huggingface.co/spaces/Mustafaansari/weather-info-app)
+#
 Welcome to the Weather Information App! This project provides real-time weather updates for any location worldwide. Simply input a city name or zip code, and instantly receive detailed weather information, including temperature, humidity, pressure, sunrise, sunset, and more.
 
 ## Features
