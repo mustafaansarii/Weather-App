@@ -22,10 +22,10 @@ def main():
             st.write(line)
 
     # Sidebar
-    st.sidebar.title("Sidebar")
+    st.sidebar.title("Weather Information App")
     st.sidebar.subheader("Developer Contact")
     st.sidebar.write("Name: Mustafa Ansari")
-    st.sidebar.write("github: https://github.com/mustafaansarii")
+    st.sidebar.write("linkedin:https://www.linkedin.com/in/mustafaansaari/")
 
     st.sidebar.subheader("About")
     st.sidebar.write("This is a simple Streamlit app that provides weather information based on the input city or zip code.")
